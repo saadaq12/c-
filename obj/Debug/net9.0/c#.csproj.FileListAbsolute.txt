@@ -1,0 +1,14 @@
+/Users/imraanmohamudali/Desktop/c#/bin/Debug/net9.0/c#
+/Users/imraanmohamudali/Desktop/c#/bin/Debug/net9.0/c#.deps.json
+/Users/imraanmohamudali/Desktop/c#/bin/Debug/net9.0/c#.runtimeconfig.json
+/Users/imraanmohamudali/Desktop/c#/bin/Debug/net9.0/c#.dll
+/Users/imraanmohamudali/Desktop/c#/bin/Debug/net9.0/c#.pdb
+/Users/imraanmohamudali/Desktop/c#/obj/Debug/net9.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imraanmohamudali/Desktop/c#/obj/Debug/net9.0/c#.AssemblyInfoInputs.cache
+/Users/imraanmohamudali/Desktop/c#/obj/Debug/net9.0/c#.AssemblyInfo.cs
+/Users/imraanmohamudali/Desktop/c#/obj/Debug/net9.0/c#.csproj.CoreCompileInputs.cache
+/Users/imraanmohamudali/Desktop/c#/obj/Debug/net9.0/c#.dll
+/Users/imraanmohamudali/Desktop/c#/obj/Debug/net9.0/refint/c#.dll
+/Users/imraanmohamudali/Desktop/c#/obj/Debug/net9.0/c#.pdb
+/Users/imraanmohamudali/Desktop/c#/obj/Debug/net9.0/c#.genruntimeconfig.cache
+/Users/imraanmohamudali/Desktop/c#/obj/Debug/net9.0/ref/c#.dll
